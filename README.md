@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @purutechno
-- 👀 I’m interested in anything that can be helpful to peoples.
-- 🌱 I’m currently learning Swift, Kotlin, Flutter and Node.js.
+- 👀 I’m interested in product development.
+- 🌱 I’m a Flutter Developer.
 - 💞️ I’m looking to collaborate on any project that can make be learn more.
 - 📫 How to reach me (puruthelancer@gmail.com)
